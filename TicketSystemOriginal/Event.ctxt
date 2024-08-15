@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Event
+comment1.params=eventName\ eventDate
+comment1.target=Event(java.lang.String,\ java.util.Date)
+comment2.params=seat
+comment2.target=void\ addSeat(Seat)
+comment3.params=
+comment3.target=java.util.List\ getAvailableSeats()
+comment4.params=
+comment4.target=java.lang.String\ getEventName()
+comment5.params=
+comment5.target=java.util.Date\ getEventDate()
+comment6.params=
+comment6.target=java.util.List\ getSeats()
+comment7.params=eventName
+comment7.target=void\ setEventName(java.lang.String)
+comment8.params=eventDate
+comment8.target=void\ setEventDate(java.util.Date)
+numComments=9

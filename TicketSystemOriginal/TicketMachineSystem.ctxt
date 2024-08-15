@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TicketMachineSystem
+comment1.params=
+comment1.target=TicketMachineSystem()
+comment2.params=event
+comment2.target=void\ addEvent(Event)
+comment3.params=eventName
+comment3.target=Event\ findEvent(java.lang.String)
+comment4.params=consumer\ eventName\ seatNumber\ cardNumber\ promotion
+comment4.target=void\ bookSeat(Consumer,\ java.lang.String,\ int,\ java.lang.String,\ Promotion)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

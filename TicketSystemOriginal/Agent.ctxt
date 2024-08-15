@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Agent
+comment1.params=name\ email\ password
+comment1.target=Agent(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=seat
+comment2.target=void\ addAssignedSeat(Seat)
+comment3.params=
+comment3.target=java.util.List\ getAssignedSeats()
+numComments=4

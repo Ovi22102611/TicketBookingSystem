@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Ticket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ticket\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=seat\ promotion
+comment1.target=Ticket(Seat,\ Promotion)
+comment2.params=
+comment2.target=double\ getFinalPrice()
+comment3.params=
+comment3.target=Seat\ getSeat()
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=
+comment5.target=double\ getDiscount()
+comment6.params=seat
+comment6.target=void\ setSeat(Seat)
+comment7.params=price
+comment7.target=void\ setPrice(double)
+comment8.params=discount
+comment8.target=void\ setDiscount(double)
+numComments=9
